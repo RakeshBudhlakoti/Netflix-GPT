@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Netflix-GPT
 =======
 # Getting Started with Create React App
